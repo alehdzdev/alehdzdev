@@ -43,9 +43,9 @@ Looking for a project with purpose and meaning that let me help people through s
 <hr>
 <h3 align="center">Stats</h3>
 <div align=center>
-  <img align="center" alt="GIF" src="assets/python.gif" width="300" height="150"/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehdzdev&hide=c%23&title_color=B1D0E0&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  <img align="center" alt="GIF" src="assets/python.gif" width="300" height="150"/>
+  <img align="center" alt="GIF" src="assets/python.gif" width="33%" height="150"/>
+  <img width=33% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehdzdev&hide=c%23&title_color=B1D0E0&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+  <img align="center" alt="GIF" src="assets/python.gif" width="33%" height="150"/>
 </div>
 <hr>
 <!---
