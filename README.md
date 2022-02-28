@@ -14,15 +14,15 @@
 <img align="right" alt="GIF" src="assets/coding.gif" width="470" height="440"/>
 
 <h3 class="title" align="center">About me</h3>
-I'm a software engineer, working most of the time on the backend area, creating/improving/maintaining complex processes to help companies to grow and succeed using best practices and last technologies.
+I'm a software engineer, working most of the time on the backend area, creating, improving, maintaining complex processes to help companies to grow and succeed using best practices and last technologies.
 
 <p>
   
-<h3 class="title" align="center">Interest and preferences</h3>
-I love Python, it helped me find my path to programming, my favorite/main framework is Django. I prefer to work only on the backend, but I can do some basics to intermediate frontend stuff and also interested to learn/work with Golang, GraphQL, Web3.
+<h3 class="title" align="center">Interests and preferences</h3>
+I love Python, it helped me find my path to programming, my favorite/main framework is Django. I prefer to work only on the backend, but I can do some basics to intermediate frontend stuff and I am also interested to learn/working with Golang, GraphQL, Web3.
 </p>
 <p>
-Looking for a project with purpose and meaning that let me help people through software.
+Looking for a project with purpose and meaning that lets me help people through software.
 </p>
 
 <h3 class="title" align="center">Technologies I use</h3>
