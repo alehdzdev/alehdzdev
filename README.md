@@ -14,7 +14,7 @@
 <img align="right" alt="GIF" src="assets/coding.gif" width="470" height="440"/>
 
 <h3 class="title" align="center">About me</h3>
-I'm a software engineer, working most of the time on the backend area, creating, improving, maintaining complex processes to help companies to grow and succeed using best practices and last technologies.
+I'm a software engineer, working most of the time on the backend area, creating, improving and maintaining complex processes to help companies to grow and succeed using best practices and last technologies.
 
 <p>
   
