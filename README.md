@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Alejandro Hernandez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Alejandro Hernandez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" widht="25px" height="25px">
   
 </div> 
 <h3 align="center">Contact me</h3>
@@ -43,9 +43,9 @@ Looking for a project with purpose and meaning that lets me help people through 
 <hr>
 <h3 align="center">Stats</h3>
 <div align=center>
-  <img align="center" alt="GIF" src="assets/python.gif" width="33%" height="130"/>
-  <img width=33% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehdzdev&hide=c%23&title_color=B1D0E0&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  <img align="center" alt="GIF" src="assets/python.gif" width="33%" height="130"/>
+  <img align="center" alt="GIF" src="assets/python.gif" width="33%" height="200"/>
+  <img align="center" width=33%  height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alehdzdev&hide=c%23&title_color=B1D0E0&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"/>
+  <img align="center" alt="GIF" src="assets/python.gif" width="33%" height="200"/>
 </div>
 <hr>
 <!---
