@@ -19,7 +19,7 @@ I'm a software engineer, working most of the time on the backend area, creating,
 <p>
   
 <h3 class="title" align="center">Interests and preferences</h3>
-I love Python, it helped me find my path to programming, my favorite/main framework is Django. I prefer to work only on the backend, but I can do some basics to intermediate frontend stuff and I am also interested to learn/working with FastAPI, Golang, GraphQL.
+I love Python, it helped me find my path to programming, my favorite/main framework is Django. I prefer to work only on the backend, but I can do some basics to intermediate frontend stuff and I am also interested to learn/working with microservices, FastAPI, Golang, GraphQL.
 </p>
 <p>
 Looking for a project with purpose and meaning that lets me help people through software.
