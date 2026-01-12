@@ -11,7 +11,7 @@
 
 <hr>
 
-<img align="right" alt="GIF" src="assets/coding.gif" width="470" height="440"/>
+<img align="right" alt="GIF" src="assets/coding.gif" width="440" height="400"/>
 
 <h3 class="title" align="center">About me</h3>
 I'm a software engineer who designs, builds, and maintains robust software systems, focused on delivering efficient, high-quality solutions that help companies grow through best practices and modern technologies.
@@ -35,9 +35,9 @@ I’m looking for projects with real purpose, where technology creates meaningfu
 
 • Experience working independently and taking ownership of complex features
 
-• Clear written communication and documentation in remote environments
+• Clear written communication and documentation in remote environments      
 
-• A mindset of continuous improvement and long-term product quality
+• A mindset of continuous improvement and long-term product quality          
 
 <h3 class="title" align="center">Technologies I use</h3>
 <p align="center">
