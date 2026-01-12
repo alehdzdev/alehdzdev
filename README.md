@@ -34,6 +34,7 @@ I’m looking for projects with real purpose, where technology creates meaningfu
 • Strong focus on clean architecture, maintainable code, and scalable systems
 
 • Experience working independently and taking ownership of complex features
+
 • Clear written communication and documentation in remote environments
 
 • A mindset of continuous improvement and long-term product quality
