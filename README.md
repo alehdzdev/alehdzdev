@@ -14,20 +14,27 @@
 <img align="right" alt="GIF" src="assets/coding.gif" width="470" height="440"/>
 
 <h3 class="title" align="center">About me</h3>
-I'm a software engineer who designs, builds, and maintains robust systems, focused on creating efficient solutions that help companies grow through best practices and modern technologies.
-
-<p>
+I'm a software engineer who designs, builds, and maintains robust software systems, focused on delivering efficient, high-quality solutions that help companies grow through best practices and modern technologies.
   
 <h3 class="title" align="center">What I care about</h3>
-I focus on building reliable, maintainable software with clean architecture and strong engineering principles. I enjoy working on systems that scale, solving complex problems, and continuously improving code quality and performance.
-
 <p>
-I'm especially interested in backend systems, APIs, and distributed architectures, and I value clear communication, good documentation, and well-tested code.
+I focus on building reliable, maintainable software with clean architecture and strong engineering principles. I enjoy working on scalable solutions, solving complex problems, and continuously improving code quality and performance.
+</p>
+<p>
+I’m especially interested in backend systems, APIs, and distributed architectures, with a strong emphasis on maintainability, performance, and long-term scalability.
+</p>
+<p>
+I value clear communication, well-documented code, and solid testing practices—essential for building high-quality software in remote, distributed teams.
+</p>
+<p>
+I’m looking for projects with real purpose, where technology creates meaningful impact and helps improve people's lives.
 </p>
 
-<p>
-I'm looking for projects with real purpose, where software is used to create meaningful impact and improve people's lives.
-</p>
+<h3 class="title" align="center">What I bring to a team</h3>
+• Strong focus on clean architecture, maintainable code, and scalable systems  
+• Experience working independently and taking ownership of complex features  
+• Clear written communication and documentation in remote environments  
+• A mindset of continuous improvement and long-term product quality  
 
 <h3 class="title" align="center">Technologies I use</h3>
 <p align="center">
@@ -40,7 +47,7 @@ I'm looking for projects with real purpose, where software is used to create mea
 <img title="React" height="25" src="assets/react.png">
 <img title="Vue" height="25" src="assets/vue.png">
 <img title="Tailwind" height="25" src="assets/tailwind.png">
-<img title="Next" height="25" src="assets/next.png">
+<img title="Next" height="25" src="assets/nextjs.png">
 <img title="Mysql" height="25" src="assets/mysql.png">
 <img title="VSCode" height="25" src="assets/vscode.png">
 <img title="Go" height="25" src="assets/golang.png">
