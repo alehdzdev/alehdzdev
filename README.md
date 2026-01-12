@@ -31,16 +31,16 @@ I’m looking for projects with real purpose, where technology creates meaningfu
 </p>
 
 <h3 class="title" align="center">What I bring to a team</h3>
-<p>
+<p align="center">
 • Strong focus on clean architecture, maintainable code, and scalable systems
 </p>
-<p>
+<p align="center">
 • Experience working independently and taking ownership of complex features
 </p>
-<p>
+<p align="center">
 • Clear written communication and documentation in remote environments
 </p>
-<p>
+<p align="center">
 • A mindset of continuous improvement and long-term product quality
 </p>
 <h3 class="title" align="center">Technologies I use</h3>
