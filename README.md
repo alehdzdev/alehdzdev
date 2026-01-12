@@ -14,15 +14,19 @@
 <img align="right" alt="GIF" src="assets/coding.gif" width="470" height="440"/>
 
 <h3 class="title" align="center">About me</h3>
-I'm a software engineer, working most of the time on the backend area, creating, improving and maintaining complex processes to help companies to grow and succeed using best practices and last technologies.
+I'm a software engineer who designs, builds, and maintains robust systems, focused on creating efficient solutions that help companies grow through best practices and modern technologies.
 
 <p>
   
-<h3 class="title" align="center">Interests and preferences</h3>
-I love Python, it helped me find my path to programming, my favorite/main framework is Django. I prefer to work only on the backend, but I can do some basics to intermediate frontend stuff and I am also interested to learn/working with microservices, FastAPI, Golang, GraphQL.
-</p>
+<h3 class="title" align="center">What I care about</h3>
+I focus on building reliable, maintainable software with clean architecture and strong engineering principles. I enjoy working on systems that scale, solving complex problems, and continuously improving code quality and performance.
+
 <p>
-Looking for a project with purpose and meaning that lets me help people through software.
+I'm especially interested in backend systems, APIs, and distributed architectures, and I value clear communication, good documentation, and well-tested code.
+</p>
+
+<p>
+I'm looking for projects with real purpose, where software is used to create meaningful impact and improve people's lives.
 </p>
 
 <h3 class="title" align="center">Technologies I use</h3>
@@ -30,12 +34,16 @@ Looking for a project with purpose and meaning that lets me help people through 
 <img title="Python" height="25" src="assets/python.png">
 <img title="Django" height="25" src="assets/django.png">
 <img title="Postgresql" height="25" src="assets/postgre.png">
-<img title="Go" height="25" src="assets/golang.png">
 <img title="Javascript" height="25" src="assets/javascript.png">
 <img title="HTML" height="25" src="assets/html.png">
 <img title="CSS" height="25" src="assets/css.png">
+<img title="React" height="25" src="assets/react.png">
+<img title="Vue" height="25" src="assets/vue.png">
+<img title="Tailwind" height="25" src="assets/tailwind.png">
+<img title="Next" height="25" src="assets/next.png">
 <img title="Mysql" height="25" src="assets/mysql.png">
 <img title="VSCode" height="25" src="assets/vscode.png">
+<img title="Go" height="25" src="assets/golang.png">
 <img title="Git" height="25" src="assets/git.png">
 <img title="Gitlab" height="25" src="assets/gitlab.png">
 <img title="Docker" height="25" src="assets/docker.png">
