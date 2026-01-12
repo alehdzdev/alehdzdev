@@ -35,6 +35,7 @@ I’m looking for projects with real purpose, where technology creates meaningfu
 
 • Experience working independently and taking ownership of complex features
 • Clear written communication and documentation in remote environments
+
 • A mindset of continuous improvement and long-term product quality
 
 <h3 class="title" align="center">Technologies I use</h3>
