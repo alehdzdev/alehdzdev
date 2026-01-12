@@ -39,6 +39,10 @@ I’m looking for projects with real purpose, where technology creates meaningfu
 
 • A mindset of continuous improvement and long-term product quality
 
+<p>
+Open to remote opportunities with international teams.
+</p>
+
 <h3 class="title" align="center">Technologies I use</h3>
 <p align="center">
 <img title="Python" height="25" src="assets/python.png">
