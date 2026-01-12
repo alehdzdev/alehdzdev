@@ -5,8 +5,8 @@
 </div> 
 <h3 align="center">Contact me</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/alehdzdev/"><img title="LinkedIn" height="25" src="assets/linkedin.png" style="padding-right: 10px"></a>
-<a href="https://www.instagram.com/alehdzdev/"><img title="Instagram" height="25" src="assets/instagram.png"></a>
+<a href="https://www.linkedin.com/in/alehdzdev/" target="_blank"><img title="LinkedIn" height="25" src="assets/linkedin.png" style="padding-right: 10px"></a>
+<a href="https://www.instagram.com/alehdzdev/" target="_blank"><img title="Instagram" height="25" src="assets/instagram.png"></a>
 </p>
 
 <hr>
