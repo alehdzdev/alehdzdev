@@ -59,7 +59,7 @@ I’m looking for projects with real purpose, where technology creates meaningfu
 </p>
 
 <p align="center">
-Open to remote opportunities with international teams.
+<strong>Open to remote opportunities with international teams</strong>
 </p>
 <hr>
 <!---
