@@ -50,7 +50,6 @@ I’m looking for projects with real purpose, where technology creates meaningfu
 <img title="React" height="25" src="assets/react.png">
 <img title="Vue" height="25" src="assets/vue.png">
 <img title="Tailwind" height="25" src="assets/tailwind.png">
-<img title="Next" height="25" src="assets/nextjs.png">
 <img title="Mysql" height="25" src="assets/mysql.png">
 <img title="VSCode" height="25" src="assets/vscode.png">
 <img title="Go" height="25" src="assets/golang.png">
